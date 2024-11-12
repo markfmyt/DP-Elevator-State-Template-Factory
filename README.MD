@@ -9,6 +9,6 @@ The source code for the elevator problem can be found [here](https://replit.com/
 ## Solution Document:
 Pending...
 
-## Image:
+## UML Class Diagram:
 ![Elevator Problem Visualization](https://github.com/user-attachments/assets/f32d9ffa-958f-4bfe-ad13-738e3a53b3a9)
 
